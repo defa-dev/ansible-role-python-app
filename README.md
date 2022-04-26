@@ -3,6 +3,11 @@
 This is a Ansible Role generated with `ansible-galaxy init python-app`.
 Role developed in MBA subject where we learned and praticed the core concepts of Ansible and how to automate VMs initial setup and config. 
 
+`ansible-galaxy install defa_dev.python_app` to try it out
+
+## Published Role
+![image](https://user-images.githubusercontent.com/80067033/165365300-4a2a250f-0e87-4805-b6a5-570646c2aa0f.png)
+
 Role Name
 =========
 
