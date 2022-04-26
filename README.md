@@ -1,3 +1,8 @@
+# Infrastructure as Code (IaC)
+
+This is a Ansible Role generated with `ansible-galaxy init python-app`.
+Role developed in MBA subject where we learned and praticed the core concepts of Ansible and how to automate VMs initial setup and config. 
+
 Role Name
 =========
 
